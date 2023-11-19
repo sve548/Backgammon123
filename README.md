@@ -25,5 +25,5 @@ During gameplay, players can send text messages to each other.
 
 ### Rating points
 
-After each game, the winner receives a points rating based on their probability of winning.
+After each game, the winner receives points based on their probability of winning.
 Players with a lower probability of winning are rewarded with more points when they beat a player whose probability of winning is higher than theirs.
